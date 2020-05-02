@@ -47,12 +47,12 @@ except ModuleNotFoundError:
     exit()
 
 print(f'  ')
-print(color.CYAN + f'   ██████╗ ██╗   ██╗     ██████╗  ██████╗ ████████╗')
-print(color.CYAN + f'   ██╔══██╗╚██╗ ██╔╝     ██╔══██╗██╔═══██╗╚══██╔══╝')
-print(color.CYAN + f'   ██████╔╝ ╚████╔╝█████╗██████╔╝██║   ██║   ██║   ')
-print(color.CYAN + f'   ██╔═══╝   ╚██╔╝ ╚════╝██╔══██╗██║   ██║   ██║   ')
-print(color.CYAN + f'   ██║        ██║        ██████╔╝╚██████╔╝   ██║   ')
-print(color.CYAN + f'   ╚═╝        ╚═╝        ╚═════╝  ╚═════╝    ╚═╝   ')
+print(color.CYAN + f'   ██████╗  ██████╗ ████████╗')
+print(color.CYAN + f'   ██╔══██╗██╔═══██╗╚══██╔══╝')
+print(color.CYAN + f'   ██████╔╝██║   ██║   ██║   ')
+print(color.CYAN + f'   ██╔══██╗██║   ██║   ██║   ')
+print(color.CYAN + f'   ██████╔╝╚██████╔╝   ██║   ')
+print(color.CYAN + f'   ╚═════╝  ╚═════╝    ╚═╝   ')
 print(f'  ')
 
 def debugOn():
