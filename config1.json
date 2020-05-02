@@ -12,13 +12,13 @@
     "status": "My owner is gummyloo909 \nand UseCoUse GOLD-Clan \nI am a epic games employee",
     "platform": "PSN",
     "friendaccept": "true",
-    "joinoninvite": "false",
+    "joinoninvite": "true",
     "AdminPassword": "001",
     "FullAccess": [
-        "GOLD SKYE",
-        "Duh"
+        "",
+        ""
     ],
     "BlockList": [
-        "Ninja"
+        ""
     ]
 }
