@@ -47,12 +47,7 @@ except ModuleNotFoundError:
     exit()
 
 print(f'  ')
-print(color.CYAN + f'   ██████╗  ██████╗ ████████╗')
-print(color.CYAN + f'   ██╔══██╗██╔═══██╗╚══██╔══╝')
-print(color.CYAN + f'   ██████╔╝██║   ██║   ██║   ')
-print(color.CYAN + f'   ██╔══██╗██║   ██║   ██║   ')
-print(color.CYAN + f'   ██████╔╝╚██████╔╝   ██║   ')
-print(color.CYAN + f'   ╚═════╝  ╚═════╝    ╚═╝   ')
+print(color.CYAN + f' RenegadeFN ')
 print(f'  ')
 
 def debugOn():
