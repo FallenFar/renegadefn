@@ -1,2 +1,2 @@
 # renegadefn
-a easy lobby bot
+A bot do make in less in 5 minutes and more 😊
